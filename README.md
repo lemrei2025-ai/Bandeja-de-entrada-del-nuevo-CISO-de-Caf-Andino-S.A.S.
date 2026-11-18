@@ -25,7 +25,7 @@ Aplicar los conceptos de estructura de gobierno, roles y responsabilidades, pol�
 
 ## 1. Contextualización del escenario
 
-Después del incidente de phishing que expuso 2.300 registros de clientes (caso trabajado en la Semana 1), la junta directiva de **Café Andino S.A.S.** decidió crear el cargo de responsable de seguridad de la información (CISO). El estudiante asume este cargo, con reporte directo al gerente general.
+Después del incidente de phishing que expuso 2.300 registros de clientes , la junta directiva de **Café Andino S.A.S.** decidió crear el cargo de responsable de seguridad de la información (CISO). El estudiante asume este cargo, con reporte directo al gerente general.
 
 En el primer día de trabajo, el nuevo CISO encuentra la siguiente situación:
 
